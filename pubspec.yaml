@@ -1,7 +1,7 @@
 name: toast_flutter
-description: A new flutter plugin project.
+description: This plugin help to display toast.
 version: 0.0.1
-homepage:
+homepage: "https://github.com/Timus23/Flutter-Toast"
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
